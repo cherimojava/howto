@@ -24,4 +24,4 @@ Following configure the environment variables within the repository environment 
 * CI_DEPLOY_PASSWORD
 * CI_DEPLOY_USERNAME
 
-After that you're ready to deploy artifacts with each successful build of the job.
+After that you're ready to deploy artifacts with each successful build of the job. Don't forget to include the travis-ci badge to show off your successful travis builds.
